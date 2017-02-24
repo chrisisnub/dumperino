@@ -1,1 +1,1 @@
-# A fun adventure of learning
+Always learning
