@@ -1,3 +1,4 @@
+#Wouldn't generate proper hashes, didn't end up using this because of hashlib and Crypto.Hash not generating the same hashes as the text file.
 from Crypto.Hash import SHA256
 
 
