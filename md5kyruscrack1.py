@@ -8,7 +8,6 @@ cnt = 1
 
 def hashmaker(word):
 	#print word
-	#print hashlib.md5(word).hexdigest()
 	return hashlib.md5(word).hexdigest() + "\n"
 
 with open("puzzle.txt","r") as f:
