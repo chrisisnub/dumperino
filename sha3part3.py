@@ -1,4 +1,4 @@
-#Wouldn't generate proper hashes, didn't end up using this because of hashlib and Crypto.Hash not generating the same hashes as the text file.
+#Wouldn't generate proper hashes, didn't end up using this because of hashlib and Crypto.Hash not generating the same hashes as the text file.Instead, since there were only a few lines left to solve, ran them into a website that was generating the hashes correctly.
 from Crypto.Hash import SHA256
 
 
